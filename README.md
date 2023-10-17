@@ -1,2 +1,2 @@
 # shashankkanchanapally-profile
-mu profile 
+my profile 
